@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PizzaShop",
+            "request": "launch",
+            "mainClass": "app.PizzaShop",
+            "projectName": "FactoryPattern"
+        }
+    ]
+}
